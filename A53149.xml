@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from New-England being a true and last account of the present bloody wars carried on betwixt the infidels, natives, and the English Christians and converted Indians of New-England, declaring the many dreadful battles fought betwixt them, as also the many towns and villages burnt by the merciless heathens and also the true number of all the Christians slain since the beginning of that war, as it was sent over by a factor of New-England to a merchant in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53149</idno>
+            <idno type="STC">Wing N983</idno>
+            <idno type="STC">ESTC R29243</idno>
+            <idno type="EEBO-CITATION">11054052</idno>
+            <idno type="OCLC">ocm 11054052</idno>
+            <idno type="VID">46168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1427:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from New-England being a true and last account of the present bloody wars carried on betwixt the infidels, natives, and the English Christians and converted Indians of New-England, declaring the many dreadful battles fought betwixt them, as also the many towns and villages burnt by the merciless heathens and also the true number of all the Christians slain since the beginning of that war, as it was sent over by a factor of New-England to a merchant in London.</title>
+               </titleStmt>
+               <extent>[1], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed by Roger L'Estrange."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King Philip's War, 1675-1676.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46168:1" rendition="simple:additions"/>
+            <p>NEWS FROM New-England, BEING A True and laſt Account of the preſent Bloody Wars carried on betwixt the Infidels, Natives, and the Engliſh Chriſtians, and Converted Indians of <hi>New-England,</hi> declaring the many Dreadful Battles Fought betwixt them: As alſo the many Towns and Villages burnt by the mercileſs Hea<g ref="char:EOLhyphen"/>thens. And alſo the true Number of all the Chri<g ref="char:EOLhyphen"/>ſtians ſlain ſince the beginning of that War, as it was ſent over by a Factor of <hi>New-England</hi> to a Merchant in <hi>London.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed by <hi>Roger L' Eſtrange.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Coniers</hi> at the Sign of the <hi>Black Raven</hi> in <hi>Duck-Lane,</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46168:2"/>
+            <pb n="1" facs="tcp:46168:2"/>
+            <head>A True and Laſt Accompt of the Preſent Bloody Wars carried on betwixt the Infidel Natives and the Engliſh Chriſtians and converted <hi>Indians</hi> of New <hi>England,</hi> &amp;c.</head>
+            <p>THOSE Coals of Diſcention which had a long time lain hid under the aſhes of a ſecret envy; contracted by the Heathen <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndians</hi> of New-<hi>England,</hi> againſt the En<g ref="char:EOLhyphen"/>gliſh; and Chriſtian Natives of that Country brake out in <hi>June</hi> 1675. both Armies being at a diſtance without doing any thing remarkable till the 13 of <hi>December</hi> following; at which time the <hi>Siath<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lymouth</hi> Company marching from <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> ſent out a conſ derable number of Scouts, who kill'd and took 55. of the Enemy, returning with no other loſs but two of our Men diſ<g ref="char:EOLhyphen"/>abled, about three days after came a perfidious <hi>Ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to our Army pretending he was ſent by the <hi>Sachems</hi> to treat of Peace, who was indeed no other but a Spy and was no ſooner conducted out of our Camp but we had news brought us that 22 of our Strag<g ref="char:EOLhyphen"/>ling Souldiers were Slain and divers barn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and out houſes, with <hi>Mr. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulls</hi> dwelling houſe burnt by him and his Trecherous confederates which wai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for him. The next day as the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick</hi> Army under the Condu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Major <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was Marching to Joyn with the <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>lymouth</hi> Company; they were aſſaulted by the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians,</hi> but without any loſ, they taking eleaven of the Aſſailants Priſoners.</p>
+            <p>The 8<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. of <hi>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ember,</hi> our whole Army being united under the Conduct of Major, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>W. ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to ſeek out the Ene<g ref="char:EOLhyphen"/>my whom we found (there then hapening a great fall of Snow) ſecur<g ref="char:EOLhyphen"/>ing themſelves in a diſmal Swam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſo hard of acceſs that there was but one wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for enterance which was well lin'd with Heathen <hi>In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans,</hi> who preſently went out to aſſault us<g ref="char:punc">▪</g> but we falling in Pel-mell with them; with much difficulty gained the Swamp where we found above 1500 Wig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wams and by night, had poſ<g ref="char:EOLhyphen"/>ſeſſion
+<pb n="2" facs="tcp:46168:3"/> of the fort; of which we were diſpoſſeſt ſoon after by an unexpected recruit of freſh <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> out of an adjoyning Swamp, but our Noble Generals inſatiable deſire of victory prompted him to ſuch brave actions, that we following his example to the enemies coſt, made our ſelves abſolute Maſters of the fort again, Although we purchaſed our ſucceſs at ſo dear a rate that we have ſmall cauſe to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joyce at the victory; yet when we conſider the vaſt diſadvantage they had of us in number, whom we collected to have 4000 fighting men, and we no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much more than half ſo many, we have great reaſon to bleſs God we came of ſo well, our dead and wounded not a Mounting to above 220, and the enemies by their own Confeſſion to no leſs then 600. the chief officers kild on our ſide were Capt. <hi>Dav nport,</hi> Capt. <hi>Johnſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> Capt. <hi>Marſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> Capt. <hi>Gardne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Capt. <hi>Gallop.</hi>
+            </p>
+            <p>Captains Wounded were 4 <hi>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, Sealey,</hi> Major <hi>Wats,</hi> and <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> Leiutenants wounded were 4 <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z. Savage, T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <g ref="char:V">Ʋ</g>pham</hi> and <hi>Wa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <p>In this bloody Battle we gave ſo bitter a Reliſh of our Engliſh valour and our converted <hi>Indians</hi> reſolutions, that they dreaded our neighbourhood and thought themſelves unſafe ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſecur'd by ſix or ſeaven miles diſtance from our remaining Army, where they remain'd near a month not attempting any thing conſider<g ref="char:EOLhyphen"/>able till the firſt of <hi>Feb.</hi> at which time a certain Number of them made deſperate through hungar came to <hi>Fal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> a Little Town near Providence, and attempted the houſe of one Mr. <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rpen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> from whom they took 20 horſes 50 head of Cattle and 180 ſheep And ſet fire on a houſe at South-bury wherein were two Men, one Woman and ſeaven Children, on t e 41<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of <hi>Fe ruary</hi> the Chriſtians received private intelligenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the <hi>nd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> who had Sculked ever ſince the laſt Battle in certain woods ſcituate a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>out 30 miles from <hi>Mal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> that they were drawn up into a body and encamped in a well fortified Swamp, where, notwithſtand<g ref="char:EOLhyphen"/>ing the <hi>Indi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> a ſaulted the Rear, wounded four of our men, and we killing ſo many of theirs that they thought fit to forſake their r fuge and leave both it and their Wigwams to our diſpoſal, who lodging in their Rooms that night ſet fire to a 150 of their Wigwams next morning, and by this light purſued them ſo loſe that we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill'd divers of them whom age or Wounds rendred inca<g ref="char:EOLhyphen"/>pable
+<pb n="3" facs="tcp:46168:3"/> of keeping up with their Companions, and reſolving to con<g ref="char:EOLunhyphen"/>tinue the queſt with all the celerity immaginable, they led us to another Swamp whoſe Rocky aſcent propounded ſo great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difficulty to attain it, as would have Staggar'd the reſolution of any but a reſolved Mind; but we attempted it with the like reſolu<g ref="char:EOLhyphen"/>tion and ſucceſs as we did the Laſt; the enemy by a ſpeedy flight leaving us in full poſſeſſion of all they left behind them.</p>
+            <p>We Perſued them two dayes after this encounter, but then (which was on the 18th <hi>Febr.</hi>) finding our men wearied with ſpeedy marches, our proviſion ſcarce through continual expence and no recruit, our horſes tir'd, and our ſelves hopeleſs of overtaking them who had great advantage of us in paſſing over Rocks and through Thickets, which our Foot not without much difficulty could, and our horſe were altogether incapable to do; our Commanders after a Councel of warr, reſolved to fend the <hi>Maſſathuſers</hi> and <hi>Plymouth</hi> Company to <hi>Mal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the <hi>Con<g ref="char:EOLhyphen"/>nect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks</hi> Army to their own homes which was accordingly done. And Major Genr. <hi>Winſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow,</hi> only with two Troops to <hi>Boſton</hi> leaving the foot at <hi>Malbury</hi> and <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bury,</hi> who came home on Munday following and were all diſmiſt to their ſeveral habitations except Capt. <hi>Wadworth</hi> who was left at <hi>Mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bury</hi> in perſuit of the E<g ref="char:EOLhyphen"/>nemy, of whom he deſtroyed about 70 Old Men Wom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and Children who wanted ſtrength to follow the fugitive Army.</p>
+            <p>The Deſperate heathens takeing advantage of the diſmiſſion of three Disbanded Companies, ſtudied nothing but Maſſacres out<g ref="char:EOLhyphen"/>rages, and trecherous hoſtillitie, which within two days after thoſe ſaid Companies were diſpers't they found opportunity to commit in a Town called <hi>Naſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>away</hi> which they ſet fire to and burnt to t e Ground taking no leſs than 55 Perſons into their Mercileſs captivity, and becauſe the reader ſhall underſtand the Damnable antipathy they have to Religion and Piety, I would have him take notice how they endeavour to Signallize their Cruelty and grati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie their enraged Spleen chiefly on the promoters of it; for of theſe 55 Captives the Miniſter of the Towns relations made no leſs then 19 of them <hi>viz.</hi> Mrs. <hi>Ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> the Miniſters wife and three of his Children, her ſiſter and ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hildren, and her ſiſter <hi>Dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> and four Children. The Miniſter himſelf with his ſiſters husbands returning from <hi>Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> a little after the engage<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:46168:4"/> to their infinite grief found their houſes burnt to the ground, and their Wives and Children taken Captive, nor was this cruel<g ref="char:EOLhyphen"/>tie commited, as the extent or <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>polus <g ref="char:V">Ʋ</g>ltra</hi> of their vengance, but rather as an earneſt of their future <hi>Bearba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity</hi> For no longer than the next day after three men Going out, with the Cart were ſeiz'd on by theſe <hi>Indians,</hi> one of them killed, and the other two not to befound, the day following at <hi>Cox<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord,</hi> they burnt one houſe and murder'd three perſons.</p>
+            <p>In ſhort, their outrages are ſo many and different, that I muſt intreat the reader ſince they will not be brought into afluent Narration, to accept them plainly and dyurnully according to the time, place, and manner as they were committed, which is the only way to avoid omiſſions, and conſequently to Satisfie the in<g ref="char:EOLhyphen"/>quiſitive, who I ſuppoſe would willingly hear of all the extremi<g ref="char:EOLhyphen"/>ties have happened to the ſuffering Chriſtians in this New <hi>En<g ref="char:EOLhyphen"/>gland</hi> War.</p>
+            <p>On the 17 of <hi>Febr.</hi> therefore ye muſt know that the Town of <hi>Medfei'd</hi> was begirt with a regiment of reſoleut <hi>Indian,</hi> who aſſail'd it ſo briskly, that maugred all the reſiſtance made by Capt <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>cobbs</hi> who was then Ingarriſon'd there with a hundred Souldiers for its ſecurity, the enraged Heathens never deſiſted their deſ<g ref="char:EOLhyphen"/>perate attemps, Battering the Walls, and powering ſhowers of Ar<g ref="char:EOLhyphen"/>rows into the boſome of the Town, they had diſtroyed above 50 of her inhabitants and burnt 30 of her houſes.</p>
+            <p>The 7th. of <hi>March</hi> following theſe bloody <hi>Indians</hi> march't to a conſiderable Twon called <hi>Croa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> where firſt they ſet fire to Major <hi>Willards</hi> houſe, and afterwards burnt 65 more there be<g ref="char:EOLhyphen"/>ing Seaventy two houſes at firſt ſo that there was left ſtanding but ſix houſes of the whole Town, the next day after two men coming from <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bury</hi> to <hi>Southlury</hi> were ſlain: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Sabboth day enſuing, theſe deſtroying <hi>Ind an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> came to <hi>Plym<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> where fixing only on a houſe of one Mr. <hi>Clarks</hi> they burnt, and mur<g ref="char:EOLhyphen"/>thered his wife and all his Children, himſelf Narrowly eſcapeing their crueltie by happily at that Juncture being at a meeting.</p>
+            <p>On the ſecond of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pr l</hi> 1676. Major <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vage,</hi> Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain <hi>Moſele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Captain <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>am T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or,</hi> and Captain <hi>V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b pal,</hi> with 300. men marching from <hi>Malb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row</hi> to <hi>Q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bury,</hi> where they had ordered the <hi>Conne<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Army to remain in readineſs againſt their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oming, whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h being effected, accordingly they joyned forces, and began
+<pb n="5" facs="tcp:46168:4"/> their march towards <hi>Northampton,</hi> but by the way were aſſaulted by the <hi>Indians,</hi> whom they repelled without any other damage, then only Mr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> wounded, killing about 20 of the Enemies in a hot perſuit after them.</p>
+            <p>The tenth Ditto, about 700 Indians encompaſt <hi>Northamp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> on all ſides where they fought very reſolutly for the ſpace of an hour, and then fled, leaving about 25 perſons dead upon the place, the Chriſtians looſing only 4. men and 1. woman, and had ſome barnes burnt, on the 12th inſtant they aſſaulted <hi>VVarwick</hi> with ſo unhap<g ref="char:EOLhyphen"/>py a ſucceſs that they burnt all the Town except four Gariſon houſes which were left ſtanding, ſix days after Captain <hi>Peirce</hi> Bro<g ref="char:EOLhyphen"/>ther to Captain <hi>Pe rce</hi> of <hi>London,</hi> with 55 men and 20 Chriſtian In<g ref="char:EOLhyphen"/>dians went to ſeek out their Enemies, the Indians whom accord<g ref="char:EOLhyphen"/>ing to their Intelligence they ſound rambling in an obſcure Wood, upon his approach they drew into order, and received his onſet with much difficulty, being in the end forced to retreat, but it was ſo ſlowly that it ſcarcely deſerved that Name, when a f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſh com<g ref="char:EOLhyphen"/>pany of Indians came into their aſſiſtance, beſet the Chriſtians round, Killed Captain <hi>Pierce.</hi> and 48. of his men, beſides 8. of the Chriſtian Indians. The Fight continued about 5 hours, the Enemy bying the Victory very dearly, but at laſt obtained it ſo abſolutly that they deprived us of all means of hearing of their loſs.</p>
+            <p>At <hi>Mal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row</hi> on the 12th Ditto, were ſeveral houſes burnt whilſt the miſerable inhabitants were at a meeting, and at <hi>Spring<g ref="char:EOLhyphen"/>field</hi> the ſame Lords day, theſe devilliſh Enemies of Religion ſee<g ref="char:EOLhyphen"/>ing a man, woman, and their Children, going but towards a meet<g ref="char:EOLhyphen"/>ing-houſe, Slew them (as they ſaid) becauſe they thought they In<g ref="char:EOLhyphen"/>tended to go thither.</p>
+            <p>The 28th, of the ſame inſtant <hi>April</hi> laſt, Captain <hi>Deniſon</hi> col<g ref="char:EOLhyphen"/>lecting a Regiment of 500 and 200 <hi>Engliſh</hi> Paquet Nimeraſs <hi>Indians</hi> marcht out of New <hi>London</hi> in ſearch of that Grand ſomenter of this Rebellion. <hi>Anthony</hi> the <hi>Se ham</hi> whom at laſt near the Town call d <hi>Providence</hi> he recovered, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter a hot diſpute wherein he kill'd 45 of the Sechems men, Took him their Com<g ref="char:EOLhyphen"/>mander Priſoner with ſeveral of his Captaines, whom they im<g ref="char:EOLhyphen"/>mediately put to death but were at ſtrong debate whether they ſhould ſend him to <hi>Boſton,</hi> but at length they carried him to
+<pb n="6" facs="tcp:46168:5"/> New <hi>London</hi> and began to examine him why he did foment that war which would certainly be the diſtruction of him and all the Heathen <hi>Indians</hi> in the Country, to which and many other inte<g ref="char:EOLhyphen"/>rogatories he made no other reply but that [he was born a Prince, and if Princes came to ſpeak with him, he would anſwer them, But none of thoſe preſent being Princes, he thought himſelf ob<g ref="char:EOLhyphen"/>lig'd on honour to hold his Tongue] This Anſwer though it might Challenge their admiration, was not ſo prevalent as to obtain their pitty.</p>
+            <p>Notwithſtanding the Surviveing Sechems were not long in re<g ref="char:EOLhyphen"/>venging his death, for on the Sixth of <hi>May,</hi> they burnt all <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<g ref="char:EOLhyphen"/>bor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> except three Garriſon houſes, kil'd Capt. <hi>Jacobſon</hi> and Leiuten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt <hi>Prat,</hi> and two dayes after burnt 24 houſes in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ury,</hi> kill d ſeveral of the inhabitants who vainly expected Capt. <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dworth</hi> and Capt. <hi>Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>okwel</hi> to their Relief; for theſe unfor<g ref="char:EOLhyphen"/>tunate Gentlemen were intercepted by 700 <hi>Moo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with whom they fought for the ſpace of 4 houres till not only they two but Capt. <hi>Sharp,</hi> and 51 Chriſtians more lay dead upon the place.</p>
+            <p>At <hi>Woodcock</hi> 10 miles from <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch</hi> on the 16th <hi>M y</hi> was a little S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irmage betwixt the <hi>Moo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and Chriſtians, wherein there was of the later three ſlain and two wounded, and only two <hi>Indians</hi> Kild.</p>
+            <p>
+               <hi>May</hi> 28. 1676. Capt. <hi>Deniſon</hi> and Capt. <hi>Evr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with 50 Engliſh and about 150 Paquet <hi>Indians</hi> Scouting among the Woods in 8 days ſpace kill'd 25 <hi>Indians</hi> and took 51 priſoners, one whereof was Grand-child to <hi>Dunham</hi> who was kill'd by Capt. <hi>Peirce</hi> in the enga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement on the 26 <hi>May.</hi>
+            </p>
+            <p>The number of Chriſtians ſlain ſince the be inning of the late Wars in New <hi>England,</hi> are 444. Taken Priſoner, 55</p>
+            <p>The number of <hi>Indi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> Slain in this war is uncertain becauſe they burn their Dead, keepin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Death as a Secret from the Chriſti<g ref="char:EOLhyphen"/>ans knowledge, but the number mentioned herein is 910.</p>
+            <p>We have Received very late news that the Chriſtians in New <hi>Engl nd</hi> have had very great Victory over the Infidel Natives.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
